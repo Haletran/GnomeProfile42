@@ -1,0 +1,12 @@
+{
+  "name": "42extension",
+  "description": "42 profile fetcher",
+  "uuid": "42extension@bapasqui.com",
+  "shell-version": [
+    "42",
+    "43"
+  ],
+  "version": 1,
+  "gettext-domain": "42extension",
+  "stylesheet": "stylesheet.css"
+}
