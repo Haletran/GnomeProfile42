@@ -2,7 +2,7 @@
 ![SIZE](https://img.shields.io/github/repo-size/Haletran/GnomeProfile42)
 ![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
->Simple gnome-shell extension for 42 profile
+>Simple gnome-shell extension to render 42 profile infos
 
 ## Installation 
 
