@@ -21,3 +21,4 @@ echo "CLIENT_ID=$CLIENT_ID" >> ~/.local/share/gnome-shell/extensions/42extension
 echo "CLIENT_SECRET=$CLIENT_SECRET" >> ~/.local/share/gnome-shell/extensions/42extension@bapasqui.com/.env
 
 echo "Please restart your gnome-shell by pressing Alt+F2 and type 'r' then press Enter"
+echo "Then go to https://extensions.gnome.org/local/ and enable the 42extension"
