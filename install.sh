@@ -16,7 +16,7 @@ read -p "Enter your CLIENT_ID: " CLIENT_ID
 read -p "Enter your CLIENT_SECRET: " CLIENT_SECRET
 
 touch ~/.local/share/gnome-shell/extensions/42extension@bapasqui.com/.env
-echo "login=$name" > ~/.local/share/gnome-shell/extensions/42extension@bapasqui.com/.env
+echo "LOGIN=$name" > ~/.local/share/gnome-shell/extensions/42extension@bapasqui.com/.env
 echo "CLIENT_ID=$CLIENT_ID" >> ~/.local/share/gnome-shell/extensions/42extension@bapasqui.com/.env
 echo "CLIENT_SECRET=$CLIENT_SECRET" >> ~/.local/share/gnome-shell/extensions/42extension@bapasqui.com/.env
 
